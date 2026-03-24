@@ -1,3 +1,4 @@
+
 ***
 
 # rustypaste-windows-tool
@@ -259,8 +260,3 @@ PS Для удобства:
 **[Quick Tips EN](#tips)**
 
 ***
-
-**Все ссылки работают!** Тестировал в GitHub и VSCode. Компактно, красиво и функционально.
-
-Хотите добавить раздел **"Installation"** или **"Troubleshooting"**?
-
