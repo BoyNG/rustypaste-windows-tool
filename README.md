@@ -6,7 +6,7 @@
 **VBS скрипт для быстрой загрузки файлов\текста\изображения\URL-ссылок на RustyPaste сервер**
 
 
-## English | [Русский](#русский)
+## English | [Русский](#russian)
 
 ### Settings
 
@@ -39,9 +39,15 @@
 
 After upload, the **file URL** is automatically copied to your clipboard.
 
+### PS
+
+- Pin VBS to Start Menu or Taskbar
+- Add to "Send to" menu: shell:sendto
+- Drag files onto pinned shortcut
+
 ---
 
-## [English](#english) | Русский  {#русский}
+## Русский  {#russian} | [English](#english)
 
 ### Настройки
 
