@@ -3,12 +3,12 @@
 **VBS script for fast file uploads to RustyPaste server**
 
 Easy and lightweight (18kb)
+(Don't forget install CURL)
 
 **VBS скрипт для быстрой загрузки файлов\текста\изображения\URL-ссылок на RustyPaste сервер**
 
 Простой и лёгкий (18кб)
-
-
+Для работы установите CURL в систему!
 
 ## English | [Русский](#русский)
 
