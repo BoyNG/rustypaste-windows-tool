@@ -6,7 +6,7 @@
 **VBS скрипт для быстрой загрузки файлов\текста\изображения\URL-ссылок на RustyPaste сервер**
 
 
-## English | [Русский](#russian)
+## English | [Русский](#русский)
 
 ### Settings
 
@@ -47,7 +47,7 @@ After upload, the **file URL** is automatically copied to your clipboard.
 
 ---
 
-## Русский  {#russian} | [English](#english)
+## Русский | [English](#english)
 
 ### Настройки
 
