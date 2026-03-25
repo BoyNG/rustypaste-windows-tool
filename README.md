@@ -1,9 +1,10 @@
 # rustypaste-windows-tool
 
 **VBS script for fast file uploads to RustyPaste server**
-
+Easy and lightweight (18kb)
 
 **VBS скрипт для быстрой загрузки файлов\текста\изображения\URL-ссылок на RustyPaste сервер**
+Простой и лёгкий (18кб)
 
 
 ## English | [Русский](#русский)
