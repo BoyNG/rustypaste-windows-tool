@@ -1,6 +1,6 @@
 # rustypaste-windows-tool
 
-**VBS script for fast file uploads to RustyPaste server**
+**VBS script for fast file uploads to RustyPaste server (https://github.com/orhun/rustypaste) **
 
 Easy and lightweight (18kb)
 (Don't forget install CURL)
